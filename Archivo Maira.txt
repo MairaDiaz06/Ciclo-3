@@ -1,3 +1,7 @@
 Compañeros
+<<<<<<< HEAD
 
 Cambio en mi local
+=======
+Prueba con merge
+>>>>>>> 8f08c4da121ee952db23a8013d659b612483a550
